@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            
+            
+              
+             <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="@string/sTvSpotDes1"/>
+             
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="Crazy Bazzar"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+              
+                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="All you need is some knowledge on everyday consumerism. This game is up for some brain teasing fun. Guess the price exactly and you win the product. Find out how smart are you with the market price of daily use products."/>
+              
+                   
+              <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="Dumb-c"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+              
+                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="This very old, yet interesting game is the all time favourite. Prove your skills by expressing the words dumb."/>
+                 
+                 
+
+                 <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="Tips"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+              
+                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="Compete and outcome your competitor by performing tasks faster. The tasks will be very simple but its how smart and fast you do it that matters."/>                 
+              
+                  <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="Sudoku"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+              
+                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="A mind game and a puzzle that you solve with reasoning and logic. Fill in 3*3 box in such a manner  that every row and every column accommodates the digits 1 to 9 without repeating any...."/>                 
+              
+                 
+                 
+            </LinearLayout>
+            </ScrollView>
+            </LinearLayout>

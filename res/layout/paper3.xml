@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:gravity="right"
+        android:visibility="invisible" />
+   
+  
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />    
+    <TextView
+        android:id="@+id/tvPaperCont1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FF7200"
+        android:textSize="24dp"
+        android:text="Manu Prasad" />
+    
+    <TextView
+        android:id="@+id/tvPaperCont2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="9940420978" />
+
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingBottom="40dp"
+        android:visibility="invisible" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Mail to:"
+        android:textSize="24dp"
+        android:textColor="#FF7200" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="presentapaper@eupraxia.co.in" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+    
+</LinearLayout>

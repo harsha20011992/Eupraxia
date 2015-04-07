@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:gravity="right"
+        android:visibility="invisible" />
+   
+  
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />    
+    <TextView
+        android:id="@+id/tvCircuitCont1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FF7200"
+        android:textSize="24dp"
+        android:text="Bharat Kumar" />
+    
+    <TextView
+        android:id="@+id/tvCircuitCont2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="9698205772" />
+
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="40dp"
+        android:gravity="right"
+        android:visibility="invisible" />
+    
+    
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+    
+    
+    <TextView
+        android:id="@+id/tvCircuitCont3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF7200"
+        android:gravity="right"
+        android:textSize="24dp"
+        android:text="Adharsh R"
+         />
+
+    <TextView
+        android:id="@+id/tvCircuitCont4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="24dp"
+        android:text="9944738103"
+         />
+
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+    
+</LinearLayout>
+</ScrollView>

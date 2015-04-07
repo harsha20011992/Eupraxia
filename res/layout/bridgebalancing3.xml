@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingBottom="20dp"
+        android:visibility="invisible" />
+
+  <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+
+    <TextView
+        android:id="@+id/tvBridgeCont1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="Abishek Rajaraman.L.A"
+        android:textColor="#FF7200" />
+
+    <TextView
+        android:id="@+id/tvBridgeCont2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="9791171281" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingBottom="40dp"
+        android:visibility="invisible" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+
+    <TextView
+        android:id="@+id/tvBridgeCont3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="24dp"
+        android:text="Niranjan M"
+        android:textColor="#FF7200" />
+
+    <TextView
+        android:id="@+id/tvBridgeCont4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="24dp"
+        android:text="9677809718" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#62B810" />
+
+</LinearLayout>
+</ScrollView>

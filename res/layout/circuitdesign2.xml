@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+    
+	<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Prelims:"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textColor="#FF7200" />
+<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:src="@drawable/ic_launcher"  ></ImageView>    
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:paddingBottom="20dp"
+        android:text="ONLINE Prelims: The questions will be updated soon and the teams which clear maximum round will be directly selected for the finals."></TextView>
+		</LinearLayout>
+		
+		<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:src="@drawable/ic_launcher"  ></ImageView>    
+
+		<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ONDAY PRELIMS: The prelims will be conducted on the day of EUPRAXIA and based upon which, finalists will be selected."
+        android:textSize="24dp" />
+			</LinearLayout>
+        
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Finals:"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textColor="#FF7200" />
+        
+	<LinearLayout 
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:src="@drawable/ic_launcher"  ></ImageView>    
+
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The participants will be asked to design a circuit for the problem statement on spot and will be asked to implement it on board.
+Skills on basic analog and digital circuits will be tested."
+android:textSize="24dp"/>
+	
+        </LinearLayout>
+        
+   </LinearLayout>
+        </ScrollView>
+</LinearLayout>

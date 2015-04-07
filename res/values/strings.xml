@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EuphraxiyaActivity!</string>
+    <string name="app_name">Eupraxia</string>
+    
+    
+    
+    <!-- Busroutes -->
+      <string-array name="country_arrays">
+        <item>21H</item>
+        <item>19B</item>
+        <item>M5</item>
+        <item>L19B</item>
+        <item>L21H</item>
+        <item>S517</item>
+        <item>S570</item>
+        <item>ST151</item>
+        <item>S566</item>
+        <item>S521</item>
+        <item>S568</item>
+        <item>S555</item>
+        <item>X555</item>
+        <item>W19BV</item>
+        <item>W219AV</item>
+        <item>M19A</item>
+        <item>S587</item>
+        <item>W570V</item>
+        <item>W21HV</item>
+        <item>X551A</item>
+        <item>19P</item>
+    </string-array>
+ 
+<!-- Contraption -->
+    
+    <string name="sTvContraTitle">Contraption</string>
+    <string name="sTvContraTag"> “Imagination is the highest kite one can fly “</string>
+    <string name="sTvContraIntroPart1">\tAre you one of those dexterous minds who could always think of an obscure conclusion to a easy task?? Then, this is the absolute platform to portray all your</string>
+    <string name="sTvContraIntroPart2">natural endowments. Presenting "CONTRAPTION" at EUPRAXIA2K12.  This event confines to the testing of your hardheaded cognition in various fields of engineering. Bring out your empowered skills that would innovate   a complicated solution for the easiest task.</string>
+    <string name="sTvContraObjective"><u>OBJECTIVE/PROBLEM STATEMENT:</u></string>
+    <string name="sTvContraQues">An ARROW should strike a BULLSEYE(DARTBOARD)</string>
+    <string name="sTvContraPoint1">The bullseye(dartboard) will be provided by us.</string>
+    <string name="sTvContraPoint2">The dartboard will consist of concentric circles each of different dimension</string>
+    <string name="sTvContraPoint3">Points will be awarded based on the accuracy of the hit</string>
+    <string name="sTvContraPoint4">Full points will be awarded if arrow hits the center (dia=5cm) circle and points will vary depending upon the accuracy.</string>
+    <string name="sTvContraRules"><u>Rules and Regulation</u></string>
+    <string name="sTvContraMail">MAIL US YOUR TEAM’s ABSTRACT  TO
+contraptionatssn@gmail.com</string>
+    <string name="sTvContraRule1">Register your Team </string>
+    <string name="sTvContraRule2">2. A team should consist a maximum of 5 members. Teams can consist of members from different colleges. </string>
+    <string name="sTvContraRule3">3. The team should mail us the detailed abstract of all the steps and energy conversions involved in each step. </string>
+    <string name="sTvContraScoring"><u>Scoring Pattern</u></string>
+    <string name="sTvContraTabTitle1"><b><u>Energy Conversions Involved</u>
+</b></string>
+    <string name="sTvContraTabTitle2"><b><u>points given</u>
+</b></string>
+    <string name="sTvContraScoring1">Use of more DOMINOES will fetch more points. </string>
+    <string name="sTvContraScoring2">Arrow striking the </string>
+    <string name="sTvContraScoring2Part1"> 5cm circle – 100 points</string>
+    <string name="sTvContraScoring2Part2">  10cm circle – 50 points</string>
+    <string name="sTvContraScoring2Part3">  20cm circle – 30 points </string>
+    <string name="sTvContraScoring2Part4">  30cm circle – 20 points </string>
+    <string name="sTvContraScoring3">  For each manual intervention, 10 points will be deducted</string>
+    <string name="sTvContraScoring4"> Parallel steps will increase the points.</string>
+    <string name="sTvContraScoreCalculation"><b><u>Score Calculation</u>
+</b>.</string>
+    <string name="sTvContraScoreFormula"> Total = Objective points + (number of energy conversions * points for the corresponding energy conversion) + Bonus points – Manual interventions</string>
+    <string name="sTvContraImportantDates"><b><u>Important Dates</u>
+</b>.</string>
+    <string name="sTvContraDate1"> Last date for submission of the ABSTRACT-<b>20th AUG</b></string>
+    <string name="sTvContraDate2"> Selection notification-<b>22nd AUG</b></string>
+    <string name="sTvContraDate3"><b>Final Event – 28th AUG</b></string>
+    <string name="sTvContraContacts"><b><u>Contacts</u>
+</b>.</string>
+    <string name="sTvContraMnk"><b>M.N.Karthikeyan:</b>9789992607</string>
+    <string name="sTvContraGayatri"><b>Gayatri.P</b></string>
+    <string name="sTvContraMailEnd"><b>Mail id:</b>contraptionatssn@gmail.com</string>
+
+    <!-- PAPER PRESENTATION -->
+
+    <string name="sTvPaperPresTitle">Paper Presentation</string>
+    <string name="sTvPaperPresTag">"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." -Albert Einstein</string>
+    <string name="sTvPaperPresIntroPart1">\tImagine you went out in the hallway, stumbled into an inter-dimensional portal, which brought you five thousand years into the future. There you took </string>
+    <string name="sTvPaperPresIntroPart2">advantage of the advanced technology to build a time machine. Now you’re back to bring us all with you to the year 7010 where we are transported to work at the Thinkatorium by telepathically controlled flying dolphins. If you’re that Sheldon Cooper-esque kind of person who has ‘Science’ for a middle name you’ve stumbled upon the right place. Eupraxia is back!
+The class of engineers that ever tirelessly drudges on towards attaining technological Nirvana is an endangered species.  We offer you a platform to compete against the cream of the left few. Let that imagination of yours out of the cage. Come up with technical papers on your solutions for current problems or original research in the realm of electrical and electronics. A range of topics have been laid at your disposal. If the topics our simple minds offer you fail to seduce your genius, no problem! You are not restricted from freelancing, so you can conjure up papers under other topics you find apposite and relevant to the essence of Electrical and Electronics Engineering.
+But don’t discount on your originality. Remember, plagiarism is a bitch.</string>
+    <string name="sTvPaperPresTopics"><b><u>Topics</u>
+</b>
+<u></u></string>
+    
+    <string name="sTvPaperPresFormat"><b><u>Format</u>
+</b></string>
+    
+    <string name="sTvPaperPresRules"><b><u>Rules</u>
+</b></string>
+    
+
+    <!-- Robotics -->
+
+    <string name="sTvRoboticsTitle">Robotics</string>
+    <string name="sTvRoboticsTag"></string>
+    
+    <string name="sTvRoboticsMine"><b><u>MineSweeper</u>
+</b>
+<u></u></string>
+    <string name="sTvRoboticsGameRules"><b>Game Rules</b></string>
+    
+    <string name="sTvRoboticsPrelims"><b><u>Prelims</u>
+</b>
+<u></u></string>
+   
+    
+   <!-- CircuitDesign -->
+    
+     <string name="sTvCircuitDesign">  CirCuit Design
+</string>
+    
+     <string name="sTvContraTable"> Last Date for \n Submission of \n Abstract
+</string>
+   <string name="sTvContraTable1"> Selection \n Notification
+</string>
+   <string name="sTvContraScoringPattern">Energy   \nConversions   \nInvolved
+</string>
+ <string name="sTvcontraScroing2">Electrical / \nElectronic 
+</string>
+
+ <string name="sTvMinute1">
+ 
+ Ever got sick of byzantine technical challenges? Befuddled of non technical events too? \n\n
+Here is an event which combines the shrewd technical and funny non technical rounds in the finest of proportions that gives it an edge over all other events.\n\n
+Are you a wizard of logical thinking? Will you be a great commander of your comrades? Still missing the good old jigsaws and dear crosswords? \n\n
+It’s time to test your presence of mind with fine knowledge in our basics. You don’t have to be a pedant to win this event after all!\n\n
+Mark your presence! Live your dreams! Be a star and loot some bucks!! \n\n
+</string> 
+
+ <string name="sTvPaper1">"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." \n                    -Albert Einstein\n\n
+
+Imagine you went out in the hallway, stumbled into an inter-dimensional portal, which brought you five thousand years into the future. There you took advantage of the advanced technology to build a time machine. Now you’re back to bring us all with you to the year 7010 where we are transported to work at the Thinkatorium by telepathically controlled flying dolphins. If you’re that Sheldon Cooper-esque kind of person who has ‘Science’ for a middle name you’ve stumbled upon the right place. Eupraxia is back!\n\n
+The class of engineers that ever tirelessly drudges on towards attaining technological Nirvana is an endangered species.  We offer you a platform to compete against the cream of the left few. Let that imagination of yours out of the cage. Come up with technical papers on your solutions for current problems or original research in the realm of electrical and electronics. A range of topics have been laid at your disposal. If the topics our simple minds offer you fail to seduce your genius, no problem! You are not restricted from freelancing, so you can conjure up papers under other topics you find apposite and relevant to the essence of Electrical and Electronics Engineering.\n\n
+But don’t discount on your originality. Avoid plagiarism .</string>
+
+ 
+ <string name="sTvPaperPresTopic1">1. Renewable energy (EE01)
+</string>
+    <string name="sTvPaperPresTopic2">2. Smart grids (EE02)</string>
+    <string name="sTvPaperPresTopic3">3. Power electronics and drives (EE03)
+</string>
+    <string name="sTvPaperPresTopic4">4. Power systems (EE04)
+</string>
+    <string name="sTvPaperPresTopic5">5. Intelligent control and robotics (EE05)
+</string>
+    <string name="sTvPaperPresTopic6">6. Embedded systems (EE06)
+</string>
+    <string name="sTvPaperPresTopic7">7. Innovative solutions to energy crisis (EE07)
+</string>
+    <string name="sTvPaperPresTopic8">8. FACTS, SCADA and HVDC (EE08)
+</string>
+    <string name="sTvPaperPresTopic9">9. Other innovative topics relevant to the field of Electronics and Electrical Engineering (EE09)    
+</string>
+    <string name="sTvPaperPresTopicOther">Other papers under any topic pertaining to the fields of Electrical and Electronics Engineering are also encouraged.
+</string>
+
+    
+    <string name="sTvPaperPresFormat1">All papers must follow IEEE two column format 
+</string>
+    <string name="sTvPaperPresFormat2">File type- .doc or .docx
+</string>
+    <string name="sTvPaperPresFormat3">Font- Times New Roman
+</string>
+    <string name="sTvPaperPresFormat4">Size- 12
+</string>
+    <string name="sTvPaperPresFormat5">No. of pages- maximum 6
+</string>
+
+    <string name="sTvPaperPresRule1">Maximum number of participants per paper is two. The participants may belong to same or different institutions.
+</string>
+    <string name="sTvPaperPresRule2">Completed papers must be sent to "presentapaper@eupraxia.co.in" by 18th August, 2012. Papers sent after the deadline will not be considered. Please add the topic code in the subject of the e-mail (E.g.: EE01 for Renewable energy) and clearly specify the participants’ contact details in the body of the e-mail.
+</string>
+    <string name="sTvPaperPresRule3">A single participant may be part of multiple teams and may submit as many papers as he wishes to, provided they are all unique. A single paper may not be repeated by a different set of authors.
+</string>
+    <string name="sTvPaperPresRule4">List of selected papers will be displayed in the website latest by 23rd August, 2012.
+</string>
+    <string name="sTvPaperPresRule5">Selected participants will also be intimated by e-mail.
+</string>
+    <string name="sTvPaperPresRule6">Authors of selected papers must be prepared to make a presentation not exceeding 8 minutes (+2 minutes for clearance of doubts) on 28th August, 2012 at our college.
+</string>
+    <string name="sTvPaperPresRule7">All works must be original. Plagiarism will be strictly monitored and the authors of plagiarized papers will not be allowed to submit any other paper.
+</string>
+    <string name="sTvPaperPresRule8">The decision of the judges will be final and binding.
+</string>
+    <string name="sTvProject1">
+    Hola, welcome to the grand festival of Project propono!! \n\n
+
+Ever since man started to look to the skies; all he wanted was to “fly”, literally. Many toiled, never succeeded but none gave up. So did Wright brothers, they believed they’d give man his unquenched thirst like so many others before them and boy did they give ‘em; and so did Tesla, Edison, Mary curie, Einstein and more recently Bill Gates, Larry page and Sergey Brin among the rich and the famous adulated by the  paparazzi. So what do all these men have in common ?? they all turned their ideas to actual working model. \n\n
+
+Do you believe you have the same ideals as these greats, that engineering is not just about “reading” books, like all those intellectual dweebs do out there??
+Do you feel the love and zeal for the “real thing” ???? \n\n
+ 
+Then <b>“project propono“</b> is your way to the holy grail. We’re waiting for your cliquey presence on the 28th of august in the hallowed grounds of the Department of Electrical and Electronics Engineering, SSNCE, SSN Institutions. Bring your imagination to life and walk out with the chalice filled with the elixir to your life.\n\n
+    </string>
+    <string name="sTvSpotDes1">
+   Welcome all. Tired of all the technical events? Here is an event to make you relaxed and boost up your energy level. This event is going to be a non-technical feast. 
+Form into groups of two and let your talents come out with a bang!! 
+    </string>
+    
+    <string name="sTvTreasure1">
+To all the Indiana Jones and Lara Crofts out there! Is breaking codes and solving puzzles your passion??\n\nDo you think you have what it takes to win a race against time?\n\nThen come play "name" which puts your technical, logical and intellectual knowledge to test.\n\nAll you need is a little lateral thinking and a bit of skill. So get your game face on and gear up for\n\nLoads of action! 
+        
+    </string>
+    
+    <string name="sTvQuizDes">       Awaiting an opportunity that quizzes your technical omniscience?.Have a penchant for energizing your grey cells? We provide a platform for the perspicacious tech geeks with ebullience to prove your technical adroitness.The quest for the search of ingenious minds begins here!! 
+    </string>
+    
+    <string name="sTvRoboticsIntroPart1">\t\t\tThe story is built on the Operation Keelhaul that was carried out in Northern Italy by British and American forces during the period post- World War II (1946-47) to </string>
+    <string name="sTvRoboticsIntroPart2">repatriate Soviet war prisoners in the Nazi camps back to their homeland. In our problem you need to design a robot that plays the role of a Explosive Ordnance Disposal expert and the Grade A –Army Commander Yuri Zhirkov. The Americans sensing the cold war, had plans of planting land mines in the war prisoners camp to kill both the prisoners and the rescue team including the Chief Secretary, thereby showing their earliest signs of superiority over the yet to form USSR. The secret spy service of Soviet Union knows USA s plan now. Soviet Union did not want to let the world know about this, but remove the land mines just to shock the US government and the rest of allies to show them the emergence of a New Superpower.</string>
+    <string name="sTvRoboticsRule1">All teams will be given a calibration time of 10 minutes.</string>
+    <string name="sTvRoboticsRule2">The game will be played in two stages.</string>
+    
+    
+    
+     <string name="sTvRoboticsPrelims1">The bot will be allowed to run through arena 1.</string>
+    <string name="sTvRoboticsPrelims2">Only one trial with 3 touches will be provided.</string>
+    <string name="sTvRoboticPrelims3">The team will be qualified for the final round if it completes the arena.</string>
+    <string name="sTvRoboticsPrelims4">In case of partial completion–wild card entries on points basis will be given.</string>
+    <string name="sTvRoboticsFinals"><b><u>Finals</u>
+</b>
+<u></u></string>
+    <string name="sTvRoboticsFinalsGen">The finals will be played in three arenas.</string>
+    <string name="sTvRoboticsFinals1">Each team will be given 2 runs.
+</string>
+    <string name="sTvRoboticsFinals2">Maximum time given for one run is 15 minutes.
+</string>
+    <string name="sTvRoboticsFinals3">All trials require the approval of the presiding judges before the machine can be removed from the arena. In each trial, the timer will be set back to zero.
+</string>
+    <string name="sTvRoboticsFinals4">On completing an arena the bot need not cover the same in case of restarts in the following arenas.
+</string>
+    <string name="sTvRoboticsTeam"><b><u>Team Details</u>
+</b>
+<u></u></string>
+    <string name="sTvRoboticsTeam1">The team can consist of a maximum of 5 members.</string>
+    <string name="sTvRoboticsTeam2">The team can consist of members from the same or different institutions.</string>
+    <string name="sTvRoboticsTeam3">No person shall be a member of two teams.</string>
+    <string name="sTvRoboticsTeam4">The teams must register online before the day of the event. On the spot registrations are not allowed.
+</string>
+    
+<string name="sTvRoboticsBot1">The Bot must be continuously autonomous.</string>
+    <string name="sTvRoboticsBot2">The Bot must fit into a box of 22x22 cm</string>
+    <string name="sTvRoboticsBot3">No restrictions on the height of the robot are imposed.</string>
+    <string name="sTvRoboticsBot4">The arena will not be influenced by external IR rays.</string>
+    <string name="sTvRoboticsBot5">The Bot should not posses readymade kits like legokits, but can make use of readymade sensors. </string>
+    <string name="sTvRoboticsBot6">The line is of non reflective black surface of 3cm width +/- 5% tolerance and the bot must adhere to the black line at all times. </string>
+    <string name="sTvRoboticsBot7">The Bot must have an onboard battery and it must at all times be autonomous.</string>
+    <string name="sTvRoboticsBot8">Potential difference across any two points should not exceed 12V</string>
+    <string name="sTvRoboticsBot9">The bot is not allowed to split into / alter its height or leave back anything in its course.</string>
+    <string name="sTvRoboticsGeneral"><b><u>General Rules</u>
+</b>
+<u></u></string>
+    <string name="sTvRoboticsGeneral1">The starting procedure of the robot should be simple and should not involve giving the machine any manual force or impulse in any direction
+</string>
+    <string name="sTvRoboticsGeneral2">During a trial, the machine will have to be restarted by putting it back on the start zone. For a trial, the machine will have to be in Power Off mode and turned on again at the start zone on the signal of the judges.
+</string>
+    <string name="sTvRoboticsGeneral3">Between trials, participants may not feed information about the arena to the machine. However, participants are allowed to: Adjust sensors, change speed settings and Make repairs.
+</string>
+    <string name="sTvRoboticsGeneral4">Battery chargers or any other means of power source will not be provided.
+</string>
+    <string name="sTvRoboticsGeneral5">Enough number of plug points will be provided.
+</string>
+    <string name="sTvRoboticsGeneral6">No laptops or programmers will be provided and the participants are required to bring the same if needed. 
+</string>
+    <string name="sTvRoboticsGeneral7">The judges may stop any robot at any time if they feel that it is performing, or is about to perform, any action that is dangerous or hazardous to people or track.
+</string>
+    <string name="sTvRoboticsGeneral8">The time measured by the organizers will be final and will be used for scoring the teams. Time measured by any participant by any other means is not acceptable for scoring.
+</string>
+    <string name="sTvRoboticsGeneral9">In case of any disputes or discrepancies, the organizers decision will be final and binding.
+</string>
+    <string name="sTvRoboticsGeneral10">Participants must bring their own programmers, software and laptops if they wish to program    their robots at the competition site.
+</string>
+    <string name="sTvRoboticsGeneral11">The participants are requested not to assume anything without discussing with the event managers.
+</string>
+    <string name="sTvRoboticsGeneral12">The organizers reserve the rights to change any or all of the above rules as they deem fit.
+</string>
+
+ <string name="sTvAndroidDes">\t\t\t “Do you eat Gingerbread for breakfast, Ice Cream Sandwich for lunch and have Jelly Beans for dinner?” or “are you coming from the faraway lands of Symbian and apples?” .Then this workshop is aimed at you. With nearly 9 million activations per year and 6 devices activated per second ANDROID is one of the fastest growing open source OS in the mobile industry. This workshop aims at providing an insight into the basics of android and enabling end users to gain a deeper understanding of the inner workings of  android.\n\n
+This is by no means a full explanation of the context, but more of a crash course to help folks get up to speed, and get more from their devices. There may be some things which you may already know here and some which you may not. Rest assured we will provide you the best.
+The prerequisite for attending the workshop is almost zero. However some basic knowledge of java might help though it is not mandatory. This workshop attracts every Android Enthusiast  to the Core.\n\n
+</string>
+ <string name="sTvArduinoIntro">\t\t\tInterested in robotics? New to microcontroller programming? Arduino workshop is the best way to begin your quest in microcontroller programming!
+ </string>
+ 
+  <string name="sTvArduinoWhat">
+\t\t\tArduino is an open-source prototyping platform that has proved to be the simplest to use. Arduino has revolutioned the prototyping world by enabling even non-technical people to develop prototypes of their ideas.Arduino is one of the most successful open source ventures in the world, growing more popular by each passing day. \n\nThe workshop will focus in enlightening you on ARDUINO- based programming. Participants of this fun-yet-informative workshop will learn to perform simple microcontroller (ATMEL) programming. 
+ </string>
+ 
+   <string name="sTvArduinoLast">
+  During the workshop, participants will be made to try out their own codes in Induino-X development boards. These development boards will be provided for free with participants using it in groups. But you can also place an order for a development board, if you want to do it individually or within a smaller group. The Induino-X development boards will cost you Rs.1260. It is going to be 3 hours of having fun with electronics! Don’t miss this chance to inspire yourself!
+  </string>
+  <string name="sTvPcbIntro">The workshop aims at providing a sound knowledge on PCB fabrication process. A cost effective PCB fabrication process is taught and illustrated with live demonstrations. EAGLE CAD software shall be used to illustrate the design phase of PCB. The workshop has two sessions:\n</string>
+
+<string name="sTvPcbDes">
+All the participants will be given participation certificates and a CD containing the necessary software for the process involved. The participants of the hands-on session can carry back their fabricated PCB’s.\n\n
+A nominal fee of Rs.100 will be collected for the general session and Rs.500 for the hands-on session.\n\n
+The students registered for the hands-on workshop. Will be attending the general session first and it will be followed by the hands-on session.\n\n
+</string>
+<string name="sTvPcbLastAns">
+Yes, though solo is allowed, a team consisting of a maximum of 3 members are allowed.\n\n
+The members can be from different departments/colleges/different genders.\n\n
+
+But there is no team concept for the general session.\n</string>
+
+<string name="sTvPcb3Ans">
+Yes,\n\n
+The general session involves a fee of Rs.100 and the hands-on session involves a fee of Rs.500.
+</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingBottom="20dp"
+            android:visibility="invisible" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+
+        <TextView
+            android:id="@+id/tvRoboCont1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aparjith.S"
+            android:textColor="#FF7200"
+            android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/tvRoboCont2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9500065423"
+            android:textSize="24dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:paddingBottom="40dp"
+            android:visibility="invisible" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+
+        <TextView
+            android:id="@+id/tvRoboCont3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Sai Praveen. D"
+            android:textColor="#FF7200"
+            android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/tvRoboCont4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="8754786046"
+            android:textSize="24dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:background="#62B810" />
+        
+
+        
+        
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+            
+               
+            
+            
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="24dp"
+                    android:paddingBottom="20dp"
+                    android:text=" “Imagination is the highest kite one can fly “ "
+                    android:textColor="#15DFD9" />
+                    
+                    
+                                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:paddingLeft="50dp"
+                    android:text="Are you one of those "/>
+
+			                                 <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24dp"
+                    android:text="dexterous minds who could always think of an obscure conclusion to a easy task?? Then, this is the absolute platform to portray all your natural endowments. Presenting CONTRAPTION at EUPRAXIA. This event confines to the testing of your hardheaded cognition in various fields of engineering. Bring out your empowered skills that would innovate  a complicated solution for the easiest task. "/>
+               			
+			                                <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="20dp"
+                android:paddingBottom="20dp"
+                android:text="Important Dates"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+			                                
+			                                
+			                                <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="85dp"
+                        android:textColor="#000000"
+                        android:text="@string/sTvContraTable"
+                        
+                        android:textSize="24dp" >
+                    </TextView>
+
+                    <View
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:background="#FF0000FF" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#000000"
+                        android:text="20th August"
+                        android:textSize="24dp" >
+                    </TextView>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:text="@string/sTvContraTable1"
+                        android:textColor="#000000"
+                        android:textSize="24dp" >
+                    </TextView>
+
+                    <View
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:background="#FF0000FF" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="55dp"
+                        android:textColor="#000000"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="22th August"
+                        android:textSize="24dp" >
+                    </TextView>
+                </TableRow>
+                
+                          <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFF" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:text="Final Event"
+                        android:textColor="#000000"
+                        android:textSize="24dp" >
+                    </TextView>
+
+                    <View
+                        android:layout_width="1dip"
+                        android:layout_height="fill_parent"
+                        android:background="#FF0000FF" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#000000"
+                        android:text="28th August"
+                        android:textSize="24dp" >
+                    </TextView>
+                </TableRow>
+                
+                
+                
+            </TableLayout>
+            
+			                                 
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

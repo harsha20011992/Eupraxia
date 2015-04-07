@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:text="Are you one of those"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="who spend more time inside the programming terminal than anything else?. Ever tried to make little objects dance across the screen by your C codes?. Do you try to make the complicated things you ought to do simple by developing a C++ program?. Whenever you see a pattern, is the number of loops the first thing in your mind?. This event is for you! Put on your thinking caps and boot your compilers and get ready to Ctrl+F9. If you think, you are the best, then come and prove your astute at THE ULTIMATE CHALLENGE!"
+                android:textSize="24dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="Rounds"
+                android:textColor="#FF7200"
+                android:textSize="35dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:text="we are planning to have three rounds,"
+                android:textSize="24dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:text="PRELIMS:"
+                android:textColor="#FF7200"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="60dp"
+                android:text="Tests the basics in"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="programming languages like C, C++. The participants will be given a set of questions testing their knowledge on the above mentioned programming languages. The questions will consist of MCQs and  objective type questions. From this round 15 best teams will be selected for the pre-finals based on their performance."
+                android:textSize="24dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+                android:text="PRE-FINALS:"
+                android:textColor="#FF7200"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="60dp"
+                android:text="This is a debugging "
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="round in the above mentioned languages. There will be three programs given to them which will contain different types of errors. On the basis of the participants’ performance 5 teams will be selected for the finals"
+                android:textSize="24dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+                android:text="FINALS:"
+                android:textColor="#FF7200"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="60dp"
+                android:text="This is a programming"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/tvDesCircuit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="round and it is upto the finalists’ choice to program in any language he wants from the choices- C or C++. They will be given two programs. And based on their performance the winners will be selected."
+                android:textSize="24dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
